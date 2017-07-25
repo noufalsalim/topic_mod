@@ -1,0 +1,118 @@
+ cluster 7
+7.1J Ramon Gil-Garcia; Collaborative e-Government: impediments and benefits of information-sharing projects in the public sector
+Abstract
+Information-sharing projects are becoming increasingly important in both public and private organizations. Generally, organizations base their decision to move forward with an information-sharing project on the project's expected benefits such as better services, operational savings, and increased program effectiveness. Clearly, potential impediments particular to the government environment could limit the attainment of benefits, jeopardizing the project's business case and even the project itself. Yet, we know very little about how users perceived impediments affect a project's expected benefits in collaborative digital government initiatives. Using data from six public sector information-sharing projects, this paper reveals how some managerial and cultural impediments (e.g., control-oriented management) limit perceptions of expected benefits. Surprisingly, political impediments were not found to significantly affect the expectations of benefits. Additionally, the paper provides managers with specific advice on how to better understand users perceptions and expectations. The paper should be of interest to both academicians and practitioners who are interested in government information technology implementation, in general, and collaborative e-Government, in particular.
+
+Keywords
+
+e-Government collaboration expected benefits perceived impediments information-sharing projects user experience
+7.2ILuisGuijarro
+Interoperability frameworks and enterprise architectures in e-government initiatives in Europe and the United States
+Abstract
+Public administrations have been very much concerned since the 1980s about the need of avoiding vendor lock-in when procuring themselves with information technology (IT) infrastructure. The boost of e-government that has taken place in recent years has put this concern again in the agenda of public administrations. Interoperability has shown up as a principle in the conception and deployment of the e-government initiatives, and the interoperability frameworks have been the tool for implementing the principle. In this paper, the use of the interoperability frameworks and of the enterprise architectures within the e-government initiatives is surveyed. The scope of the survey is Europe and the United States. As far as the author is aware, all trends in interoperability policy fall within the scope of the survey. The survey is focused on the methodological tools that e-government agencies have devised for achieving the interoperability at the public administrations. The tools are interoperability frameworks and enterprise architectures.
+7.3
+Identifying critical factors for adoption of e-government
+Mahmud Akhter ShareefRelated information1 Sprott School of Business, Carleton University, 1125 Colonel By Drive, Ottawa, ON, K1S 5B6, Canada.
+, Uma KumarRelated information2 Sprott School of Business, Carleton University, 1125 Colonel By Drive, Ottawa, ON, K1S 5B6, Canada.
+, Vinod KumarRelated information3 Sprott School of Business, Carleton University, 1125 Colonel By Drive, Ottawa, ON, K1S 5B6, Canada.
+, Yogesh K. Dwivedei
+Abstract
+The objective of this current study is to identify the critical factors that contribute to the intention by citizens of developing countries to adopt an EG system. In this research, we explore literature from marketing, sociology, e-commerce, EG, organisational behaviour, information technology, public administration, technology transfer and technology innovation. We also conduct an empirical study among the citizens of Bangladesh, a developing country. This research identifies the plausible critical factors of adoption of EG by citizens of developing countries and develops an EG adoption-citizen intention model for citizens of developing countries.
+
+Keywords: e-government adoption, electronic government, citizen intentions, critical factors, developing countries, Bangladesh
+7.4
+Interorganizational information integration: A key enabler for digital government
+. Author links open the author workspace.Theresa A.PardoOpens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspaceOpens the author workspace. Author links open the author workspace.Giri KumarTayib. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace1. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+7.5 E-Government Integration and Interoperability: Framing the Research Agenda
+Hans J. (Jochen) Scholl
+Abstract
+Among the defining purposes of e-Government, highly agile, citizen-centric, accountable, transparent, effective, and efficient government operations and services have high rank. For reaching these goals, the integration of government information resources and processes, and ultimately, the interoperation of independent e-Government information systems appears essential. Yet, most integration and interoperation efforts meet serious challenges and constraints. This article contributes to the development of a research framework on integration and system interoperation in e-Government. We propose future research projects to study the foci and purposes, limitations and constraints, as well as processes and outcomes of integration and interoperation in electronic Government. For so doing, we suggest needs-and-wants theory as one promising theoretical lens (among others) for guiding that effort.
+
+Keywords: e-Government federations, information sharing, integration, interoperability, needs and wants theory
+7.6
+Wing Lam Barriers to e-government integration
+Purpose
+ Integration is a critical success factor for achieving a mature level of e-government. This research seeks to identify barriers to e-government integration (EGI).
+
+Design/methodology/approach
+ Semi-structured interviews were conducted with 14 consultants with significant experience of e-government projects. The interview transcripts were analysed by the researcher to identify barriers in EGI.
+
+Findings
+ The findings resulted in a set of 17 barriers which were organised into one of four categories: strategy, technology, policy and organization. Strategy barriers include common e-government goals and objectives, delivery timeframes, and ownership and governance. Technology barriers include architecture interoperability, data standards and legacy systems. Policy barriers include citizen privacy, data ownership and policy implications. Organization barriers include pace of government reform, legacy government processes and management and technical skills.
+
+Research limitations/implications
+ One of the limitations of the research is that it involved in-depth interviews with a relatively small number of individuals. In addition, improvements in research procedure, such as the use of multiple interviewers, will go some way towards increasing the reliability of the research findings.
+
+Practical implications
+ EGI is not simply a technical matter of getting IT systems to talk to each other. Stakeholders should engage in strategic planning and change management.
+
+Originality/value
+ The paper has identified a set of barriers in e-government. Certain barriers, specifically in the area of policy, are particular to e-government projects. A model of EGI, based on a synthesis of government relationships, is also proposed.
+
+Keywords:
+Government, Communication, Critical success factors
+7.7: Yang Tm
+
+Information-sharing in public organizations: A literature review of interpersonal, intra-organizational and inter-organizational success factors
+Abstract
+Information sharing is considered an important approach to increasing organizational efficiency and performance. With advances in information and communication technology, sharing information across organizations has become more feasible. In the public sector, government agencies are also aware of the importance of information sharing for addressing policy issues such as anti-terrorism and public health. However, information sharing can be a complex task. Identifying factors that influence information sharing is critical. In the literature, research in information sharing focuses on the interpersonal, intra-organizational, and inter-organizational levels. This paper reviews the current information-sharing research, discusses the factors affecting information sharing at the three levels, and provides summative frameworks. These frameworks provide a means to discover future research opportunities, and a systematic way for practitioners to identify key factors involved in successful information sharing.
+
+ ? Interpersonal information sharing. ? Intra-organizational information sharing. ? Inter-organizational information sharing. ? The interrelationship of the three contexts.
+
+Keywords
+Information sharingInformation integrationKnowledge sharingIntergovernmentalCross boundaryLearning organization
+7.8
+ 
+Interoperability of E-Government Information Systems: Issues of Identification and Data Sharing
+Benoît Otjacques Informatics, Systems,
+. Abstract
+In business and government organizations, information systems often handle sensitive data about individuals and other organizations, using various kinds of identifiers. The growing cooperation of organizations results in the need to share and exchange such data. This collection and sharing, however, is affected by privacy concerns, and organizational and technical issues have to be solved and taken into account. This paper describes the results of an exploratory study in the government sector, focusing on the way public organizations manage identity-related data and the sharing of such data, either with other public agencies or with private organizations. Despite significant progress in harmonizing the legal and administrative provisions and technical standards in the European Union, there are still considerable cross-country differences regarding this subject. These differencestogether with the growing mobility of goods, persons, and related data within the European Unioncause particular challenges for information systems in digital government in this region. After discussing and defining the key notions and methodology of the study, we present the status quo in 18 out of 25 EU member states and compare it to the results of a prior study by the same network done in 2001. Finally, we draw conclusions about identity management in cross-border contexts.
+
+Keywords: data sharing, e-government, identifier, identity management, information sharing, interoperability, interorganizational information systems, privacy
+7.9 Enacting Integrated Information Technology: A Human Agency Perspective
+
+Marie-Claude Boudreau
+Abstract
+Recent perspectives on organizational change have emphasized human agency, more than technology or structure, to explain empirical outcomes resulting from the use of information technologies in organizations. Yet, newer technologies such as enterprise resource planning (ERP) systems continue to be associated with the agenda of organizational transformation, largely because they are assumed to constrain human action. We report an interpretive case study of an ERP system after its implementation in a large government agency. Despite the transformation agenda accompanying the new system, users initially chose to avoid using it as much as possible (inertia) and later to work around system constraints in unintended ways (reinvention). We explain the change in enactments with the concept of improvised learning, which was motivated by social influence from project leaders, power users, and peers. Our results are consistent with arguments regarding the enactment of information technology in organizations and with temporal views of human agency. We conclude that an integrated technology like ERP, which potentially represents a hard constraint on human agency, can be resisted and reinvented in use.
+
+Keywords: human agency ; organizational change ; information technology ; improvised learning
+7.10
+The Impact of Organizational Context and Information Technology on Employee Knowledge-Sharing Capabilities
+Authors
+Soonhee Kim
+Abstract
+
+Sharing knowledge and information is an important factor in the discourses on electronic government, national security, and human capital management in public administration. This article analyzes the impact of organizational context and IT on employees perceptions of knowledge-sharing capabilities in five public sector and five private sector organizations in South Korea. Social networks, centralization, performance-based reward systems, employee usage of IT applications, and user-friendly IT systems were found to significantly affect employee knowledge-sharing capabilities in the organizations studied. For public sector employees, social networks, performance-based reward systems, and employee usage of IT applications are all positively associated with high levels of employee knowledge-sharing capabilities. Lessons and implications for knowledge-sharing capabilities and management leadership in the public sector are presented.
+7.11
+Knowledge Sharing in Public Sector Organizations: The Effect of Organizational Characteristics on Interdepartmental Knowledge Sharing
+Annick Willem  Marc Buelens
+Abstract
+Public sector organizations are mainly knowledge-intensive organizations, and to exploit their knowledge, effective knowledge sharing among the different departments is required. We focus on specific characteristics of public sector organizations that increase or limit interdepartmental knowledge sharing. Three types of organization-specific coordination mechanisms directly influence knowledge sharing between departments. Organizations are also characterized by members' social identification and trust, which in the absence of power games are assumed to create a knowledge-sharing context. Data are collected by a questionnaire survey in the public sector. The sample consists of 358 cooperative episodes between departments in more than 90 different public sector organizations. Structural equation modeling reveals the importance of lateral coordination and trust. The combination of power games and informal coordination seems to be remarkably beneficial for knowledge sharing. Furthermore, compared with other public sector organizations, government institutions have organizational characteristics that are less beneficial for knowledge sharing.
+7.12
+The antecedents and consequents of user perceptions in information technology adoption
+. Author links open the author workspace.RituAgarwala. Numbers and letters correspond to the affiliation list. Click to expose these in author workspaceOpens the author workspace. Author links open the author workspace.JayeshPrasadb
+Abstract
+A common theme underlying various models that explain information technology adoption is the inclusion of perceptions of an innovation as key independent variables. Although a fairly significant body of research that empirically tests these models is now in existence, some questions with regard to both the antecedents as well as the consequents of perceptions remain unanswered. This paper reports the results of a field study examining adoption of an information technology innovation represented by an expert systems application. Two research objectives that have both theoretical and practical relevance motivated and guided the study. One, the study challenges an assumption which is implicit in technology acceptance models: that of the non-existence of moderating influences on the relationship between perceptions and adoption decisions. Specifically, the study examines the effects of an important moderating influence  personal innovativeness  on this relationship. Two, the study seeks to shed further light on the determinants of perceptions by examining the relative efficacy of mass media and interpersonal communication channels in facilitating perception development. Theoretical and practical implications that follow from the results are discussed.
+Keywords
+Information technology adoptionPersonal innovativenessCommunication channelsExpert system adoption
+7.13
+Social Structure of Coopetition Within a Multiunit Organization: Coordination, Competition, and Intraorganizational Knowledge Sharing
+
+Wenpin Tsai
+Abstract
+Drawing on a social network perspective of organizational coordination, this paper investigates the effectiveness of coordination mechanisms on knowledge sharing in intraorganizational networks that consist of both collaborative and competitive ties among organizational units. Internal knowledge sharing within a multiunit organization requires formal hierarchical structure and informal lateral relations as coordination mechanisms. Using sociometric techniques, this paper analyzes how formal hierarchical structure and informal lateral relations influence knowledge sharing and how interunit competition moderates the association between such coordination mechanisms and knowledge sharing in a large, multiunit company. Results show that formal hierarchical structure, in the form of centralization, has a significant negative effect on knowledge sharing, and informal lateral relations, in the form of social interaction, have a significant positive effect on knowledge sharing among units that compete with each other for market share, but not among units that compete with each other for internal resources.
+
+Keywords: Knowledge Sharing ; Organizational Capability ; Social Network Analysis
+7.14
+Understanding dynamic capabilities
+Authors
+Sidney G. Winter
+Abstract
+
+Defining ordinary or zero-level capabilities as those that permit a firm to make a living in the short term, one can define dynamic capabilities as those that operate to extend, modify or create ordinary capabilities. Logically, one can then proceed to elaborate a hierarchy of higher-order capabilities. However, it is argued here that the strategic substance of capabilities involves patterning of activity, and that costly investments are typically required to create and sustain such patterningfor example, in product development. Firms can accomplish change without reliance on dynamic capability, by means here termed ad hoc problem solving. Whether higher-order capabilities are created or not depends on the costs and benefits of the investments relative to ad hoc problem solving, and so does the level of the game at which strategic competition effectively occurs. Copyright © 2003 John Wiley & Sons, Ltd.
+7.15
+Expectations and Perceptions of Benefits, Barriers, and Success in Public Sector Knowledge Networks
+Jing Zhang  & Sharon 
+Abstract
+As public programs become more complex and interdependent, their effectiveness increasingly relies on interorganizational networks in which knowledge and information are the main currencies of interaction. This paper reports the results of a study of seven knowledge-networking projects in New York State government. Each project was followed for 3 years as a case study. In addition, the participants took part in two surveys that gathered expectations at the beginning of the study and perceptions of actual experience near the end. The surveys focus on the benefits, barriers, and extent of success associated with knowledge and information sharing. The results show that prior expectations changed as a result of experience. After engaging in the projects for more than 2 years, participants perceived that achieved benefits of knowledge networking were not as great as they expected and the barriers were not as formidable. In addition, the survey shows that organizational and individual networking successes are separable from project success. Perceived technological barriers appear to limit individual networking success. Perceived policy and legal barriers appear to constrain the achievement of substantive project goals. Expected and perceived organizational barriers 
+
